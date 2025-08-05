@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { ethers } from 'ethers';
 import stakingAbi from './abi/Staking.json';
 
-const STAKING_ADDRESS = '0xPASTE_YOUR_STAKING_CONTRACT';
+const STAKING_ADDRESS = '0x1Bb4576c12374B46DfA83d666d2CDa5Ab4aA1eBE';
 
 function App() {
   const [provider, setProvider] = useState(null);
