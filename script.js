@@ -1,6 +1,6 @@
 let web3;
 let contract;
-const contractAddress = "0xF9FF43225aA47fA308970f30d1aEd8c4c5e6F74e"; 
+const contractAddress = "0x1Bb4576c12374B46DfA83d666d2CDa5Ab4aA1eBE"; 
 
 // Fungsi untuk koneksi wallet
 async function connectWallet() {
